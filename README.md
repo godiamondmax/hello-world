@@ -1,2 +1,3 @@
 # hello-world
-Мой первый проект
+My first project
+I am starting to learn JavaScript and I believe in my strength and in my mentors
